@@ -1,4 +1,5 @@
 ﻿  Source.cpp
-C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Program1\Source.cpp(159,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Program1\Source.cpp(158,7): warning C4101: 'input': unreferenced local variable
+C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Program1\Source.cpp(19,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Program1\Source.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Program1\Source.cpp(31,7): warning C4101: 'input': unreferenced local variable
   Program1.vcxproj -> C:\Users\Wes\Documents\CS201\201R-Spring-2020\Wes_McNall\Program1\Debug\Program1.exe
